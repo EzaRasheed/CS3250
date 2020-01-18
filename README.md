@@ -1,5 +1,6 @@
 # CS3250
-Software Testing
+Software Testing <br />
+Fall 2019
 
 Topics Covered Include:
 - Faults, Errors, Failures
